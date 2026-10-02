@@ -1,0 +1,7 @@
+{
+  "$schema": "https://codeology.app/schemas/project.v1.json",
+  "name": "Wingman",
+  "description": "A Co-Op Game",
+  "visibility": "private",
+  "createdAt": "2026-10-01T04:25:13Z"
+}

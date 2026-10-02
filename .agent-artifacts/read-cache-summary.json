@@ -1,0 +1,53 @@
+{
+  "filesRead": 5,
+  "totalContentBytes": 75990,
+  "filesWithPreview": 0,
+  "filesWithFullContent": 0,
+  "entries": [
+    {
+      "contextId": "ctx_d892361e0bb1e063",
+      "relativePath": "Automation_Wingman.sln",
+      "contentHash": "3eed3b048a1811ac",
+      "fullContentLength": 55636,
+      "lineCount": 623,
+      "sentToModel": true,
+      "readTime": "2026-10-01T15:56:26.5073689Z"
+    },
+    {
+      "contextId": "ctx_e1e5343bdfb77bd5",
+      "relativePath": "Automation_Wingman.slnx",
+      "contentHash": "d9815449710ac87f",
+      "fullContentLength": 7067,
+      "lineCount": 70,
+      "sentToModel": true,
+      "readTime": "2026-10-01T15:56:26.6086235Z"
+    },
+    {
+      "contextId": "ctx_bcf642ede863cf24",
+      "relativePath": "Intermediate/ProjectFiles/UE5.vcxproj.user",
+      "contentHash": "1036ccb2093c1c0b",
+      "fullContentLength": 12117,
+      "lineCount": 205,
+      "sentToModel": true,
+      "readTime": "2026-10-01T15:56:26.708907Z"
+    },
+    {
+      "contextId": "ctx_0510584713fbfecc",
+      "relativePath": "Source/Wingman/Wingman.Build.cs",
+      "contentHash": "568f8abf14b7eb3b",
+      "fullContentLength": 789,
+      "lineCount": 24,
+      "sentToModel": true,
+      "readTime": "2026-10-01T15:56:26.778615Z"
+    },
+    {
+      "contextId": "ctx_6147834a9aa8ea9f",
+      "relativePath": "Source/Wingman.Target.cs",
+      "contentHash": "2d12fdd07bc2ac31",
+      "fullContentLength": 381,
+      "lineCount": 16,
+      "sentToModel": true,
+      "readTime": "2026-10-01T15:56:26.7847521Z"
+    }
+  ]
+}

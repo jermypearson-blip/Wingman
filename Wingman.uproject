@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B64F7E95-4D66-5D6C-4C60-1FAA1A931307}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Wingman",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]
+}

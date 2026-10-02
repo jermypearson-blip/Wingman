@@ -1,0 +1,21 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Generated solution/project files (regenerate from .uproject)
+*.sln
+*.slnx
+*.suo
+*.sdf
+*.VC.db
+*.opensdf
+*.opendb
+
+# Build artifacts
+*.pdb
+*.dll
+*.exe
+*.obj
